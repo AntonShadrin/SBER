@@ -1,0 +1,2 @@
+SELECT vol FROM table1 INNER JOIN table2 ON table1.id1 = table2.id2
+	WHERE date > '01.01.2020'
