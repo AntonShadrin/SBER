@@ -1,0 +1,50 @@
+sample size = 10
+
+n = 3
+mean_aproximate = 3.28059
+mean_minimal = 3.28059
+mean = 0
+mean_sqr = 0
+
+n = 4
+mean_aproximate = 2.98309
+mean_minimal = 2.90042
+mean = 0.0826627
+mean_sqr = 0.122517
+
+n = 5
+mean_aproximate = 5.00843
+mean_minimal = 4.84422
+mean = 0.164206
+mean_sqr = 0.241398
+
+n = 6
+mean_aproximate = 5.66145
+mean_minimal = 5.48764
+mean = 0.173807
+mean_sqr = 0.240273
+
+n = 7
+mean_aproximate = 6.49065
+mean_minimal = 6.26217
+mean = 0.22848
+mean_sqr = 0.335403
+
+n = 8
+mean_aproximate = 6.72921
+mean_minimal = 6.41292
+mean = 0.316291
+mean_sqr = 0.413988
+
+n = 9
+mean_aproximate = 7.52186
+mean_minimal = 7.06967
+mean = 0.452186
+mean_sqr = 0.527522
+
+n = 10
+mean_aproximate = 7.20557
+mean_minimal = 6.81806
+mean = 0.387511
+mean_sqr = 0.463618
+
